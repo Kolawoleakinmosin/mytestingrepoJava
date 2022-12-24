@@ -1,4 +1,8 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>My Web App</title>
+</head>
 <body>
 <h2>Hello World! This is a code</h2>
 <div>
